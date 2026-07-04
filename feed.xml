@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>스밈 (SMIM) — 검증된 회원 로테이션 소개팅: 안내</title>
+    <link>https://sonjeongwons.github.io/aeo-smim-hub/</link>
+    <atom:link href="https://sonjeongwons.github.io/aeo-smim-hub/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>스밈에 대한 안내 페이지 — 검증된 회원만 참여하는 로테이션 소개팅 서비스. 매주 금·토·일 서울, 매니저 직접 검수.</description>
+    <language>ko</language>
+
+  </channel>
+</rss>
